@@ -1,0 +1,387 @@
+.container {
+  width: 950px;
+
+  
+  font-family: 'Open Sans';
+  background: #222;
+  color:white;
+  text-align: center;
+}
+.card-holder {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 50px;
+  margin-right: 50px;
+
+  
+  
+
+}
+.kep {
+ 
+  width:  400px;
+ overflow: hidden;
+ height: 400px; 
+ 
+  
+}
+.kep img{ 
+ margin: -150px 0px -17px -950px;
+    
+}
+.teszt {
+  display: flex;
+  justify-content: space-between;
+}
+#kep2 {
+  position: absolute;
+  top: 210px;
+  left: 55px;
+  font-size: 30px;
+  font-family: 'Abril Fatface', 
+   cursive;
+  
+  color: #222;
+}
+#kep3 {
+  position: absolute;
+  top: 205px;
+  left: 50px;
+  right: 5000px;
+  font-size: 70px;
+  font-family: 'Abril Fatface', cursive;
+  color: #222;
+}
+
+.sz {
+  font-family: 'Josefin Sans', sans-serif;
+  text-align: left;
+  position: relative;
+ left: 150px;
+ right: 15px;
+ font-size: 12px;
+  margin-top:-400px;
+  margin-right: 220px;
+  margin-left: 270px;
+}
+
+.large {
+  
+list-style: square;
+text-align: left;
+position: relative;
+left: 90px;
+margin-right: 250px;
+font-family: 'Josefin Sans', sans-serif;
+   margin-right: 150px;
+  margin-left: 140px;
+  
+}
+#jel{
+  font-size: 100px;
+  positon: absolute;
+  background: #222;
+text align: left;
+ height: 50px;
+ padding-top: 25px;
+  margin-top:300px;
+  margin-left: 0px;
+ }
+
+
+.together {
+
+
+background-color: #222;
+padding: 1px;
+  color: white;
+  width: 60px;
+ width: 350px;
+  height: 300px;
+font-family: 'Josefin Sans', sans-serif;
+  padding: 2px;
+  margin-left: 100px;
+  padding-left:25px;
+  padding-right:25px;
+  
+  
+}
+
+
+
+#együtt {
+font-size: 80px;
+ text-align: center;
+
+  padding-bottom: 25px;
+  margin-left: 0px;
+  margin-right: 
+  
+}
+.Notable {
+font-family: 'Josefin Sans', sans-serif;
+  padding: 5px;
+  text-align: left;
+  font-size: 30px;
+  margin-top: -300px;
+  margin-left: 420px;
+}
+.masodikbekezdes {
+  font-family: 'Merriweather', serif;
+    font-size: 20px;
+  margin-top: 30px;
+  margin-left: 430px;
+  margin-right: 50px;
+  font-weight: bold;
+}
+.harmadikbekezdes {
+  font-family: 'Josefin Sans', serif;
+    font-size: 14px;
+  margin-top: 30px;
+  margin-left: 430px;
+  margin-right: 70px;
+}
+.negyedikbekezdes {
+  font-family: 'Merriweather', serif;
+    font-size: 20px;
+  margin-top: 30px;
+  margin-left: 430px;
+  margin-right: 50px;
+  font-weight: bold;
+}
+.otodikbekezdes {
+  font-family: 'Josefin Sans', serif;
+    font-size: 14px;
+  margin-top: 30px;
+  margin-left: 430px;
+  margin-right: 70px;
+ }
+#jel2{
+  font-size: 150px;
+  positon: absolute;
+  background: #222;
+text align: left;
+ height: 50px;
+ padding-top: 25px;
+  margin-top:50px;
+  margin-left: 0px;
+ }
+
+
+.together2 {
+
+
+background-color: #222;
+padding: 1px;
+  color: white;
+  width: 60px;
+ width: 350px;
+font-family: 'Josefin Sans', sans-serif;
+  padding: 2px;
+  margin-left: 0px;
+  padding-left:25px;
+  padding-right:25px;
+  
+}
+
+
+#together2 {
+font-size: 70px;
+ text-align: left;
+margin-left: 0px;
+  height: 250px;
+  padding-bottom: 25px;
+}
+.Experience {
+  font-family: 'Josefin Sans', sans-serif;
+  padding: 5px;
+  text-align: left;
+  font-size: 30px;
+  margin-top: -280px;
+  margin-left: 420px;
+}
+.sith {
+  font-family: 'Merriweather', serif;
+    font-size: 20px;
+  margin-top: 30px;
+  margin-left: 420px;
+  margin-right: 50px;
+  font-weight: bold;
+}
+
+.supreme {
+  font-family: 'Merriweather', serif;
+  margin-left: 420px;
+  font-size: 13px;
+}
+.asthe {
+  margin-left: 320px;
+  margin-top: 20px;
+  font-size: 13px;
+  list-style: square;
+text-align: left;
+position: relative;
+left: 120px;
+margin-right: 250px;
+font-family: 'Josefin Sans', sans-serif;
+}
+.wally {
+    font-family: 'Merriweather', serif;
+    font-size: 20px;
+  margin-top: 30px;
+  margin-left: 420px;
+  margin-right: 50px;
+  font-weight: bold;
+}
+.enslaved {
+  font-family: 'Merriweather', serif;
+  margin-left: 420px;
+  font-size: 13px;
+}
+.general {
+  margin-left: 320px;
+  margin-top: 20px;
+  font-size: 13px;
+  list-style: square;
+text-align: left;
+position: relative;
+left: 120px;
+margin-right: 250px;
+font-family: 'Josefin Sans', sans-serif;
+}
+#jel3{
+  font-size: 150px;
+  positon: absolute;
+  background: #222;
+text align: left;
+ height: 50px;
+ padding-top: 25px;
+  margin-top:50px;
+  margin-left: 0px;
+ }
+
+
+.together3 {
+background-color: #222;
+padding: 1px;
+  color: white;
+  width: 60px;
+ width: 350px;
+  height: 600px;
+font-family: 'Josefin Sans', sans-serif;
+  padding: 2px;
+  margin-left: 0px;
+  padding-left:25px;
+  padding-right:25px;
+}
+#together3 {
+font-size: 80px;
+ text-align: left;
+margin-left: 0px;
+  
+  padding-bottom: 25px;
+}
+.formal {
+    font-family: 'Josefin Sans', sans-serif;
+  padding: 5px;
+  text-align: left;
+  font-size: 30px;
+  margin-top: -650px;
+  margin-left: 420px;
+}
+.green {
+  font-family: 'Merriweather', serif;
+    font-size: 20px;
+  margin-top: 30px;
+  margin-left: 420px;
+  margin-right: 50px;
+  font-weight: bold;
+}
+.full {
+  font-family: 'Merriweather', serif;
+  margin-left: 420px;
+  font-size: 13px;
+}
+.padawan {
+  margin-left: 320px;
+  margin-top: 20px;
+  font-size: 13px;
+  list-style: square;
+text-align: left;
+position: relative;
+left: 120px;
+margin-right: 250px;
+font-family: 'Josefin Sans', sans-serif;
+}
+.sith2 {
+  font-family: 'Merriweather', serif;
+    font-size: 20px;
+  margin-top: 30px;
+  margin-left: 420px;
+  margin-right: 50px;
+  font-weight: bold;
+}
+.master {
+  font-family: 'Merriweather', serif;
+  margin-left: 420px;
+  font-size: 13px;
+}
+.appren {
+  margin-left: 320px;
+  margin-top: 20px;
+  font-size: 13px;
+  list-style: square;
+text-align: left;
+position: relative;
+left: 120px;
+margin-right: 250px;
+font-family: 'Josefin Sans', sans-serif;
+}
+.jedi {
+  font-family: 'Merriweather', serif;
+    font-size: 20px;
+  margin-top: 30px;
+  margin-left: 420px;
+  margin-right: 50px;
+  font-weight: bold;
+}
+.padawan2 {
+  margin-left: 320px;
+  margin-top: 20px;
+  font-size: 13px;
+  list-style: square;
+text-align: left;
+position: relative;
+left: 120px;
+margin-right: 250px;
+font-family: 'Josefin Sans', sans-serif;
+
+
+  
+}
+.personal{
+  text-align: center;
+  width: 800px;
+ margin-top: 300px ;
+  margin-left: 150px;
+border-bottom: 5px solid black;
+}
+.personal2 {
+   font-family: 'Josefin Sans', sans-serif;
+  padding: 5px;
+  text-align: left;
+  font-size: 30px;
+  margin-top: 30px;
+  margin-left: 150px;
+}
+.personal3 {
+  margin-left: 70px;
+  margin-top: 20px;
+  font-size: 13px;
+  list-style: square;
+text-align: left;
+position: relative;
+left: 120px;
+margin-right: 250px;
+font-family: 'Josefin Sans', sans-serif;
+}
